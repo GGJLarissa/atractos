@@ -1,6 +1,7 @@
 # Atractos 
 
 This game app was developed in GGJ Larissa 2020.
+
 Developed in Unity 2018.4.14 with free assets of Unity Assets Store.
 
 # Summary
